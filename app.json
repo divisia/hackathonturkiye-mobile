@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HackathonTurkiye",
-    "slug": "HackathonTurkiye",
+    "name": "Hackathon Türkiye",
+    "slug": "hackathon-turkiye",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

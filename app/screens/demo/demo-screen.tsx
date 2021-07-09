@@ -169,6 +169,12 @@ export const DemoScreen = observer(function DemoScreen() {
           tx="demoScreen.demoList"
           onPress={() => navigation.navigate("demoList")}
         />
+        <Button
+          style={DEMO}
+          textStyle={DEMO_TEXT}
+          tx="demoScreen.hthome"
+          onPress={() => navigation.navigate("eventsHome")}
+        />
         <Image source={logoIgnite} style={IGNITE} />
         <View style={LOVE_WRAPPER}>
           <Text style={LOVE} text="Made with" />
